@@ -1,0 +1,47 @@
+=== English ===
+Title: Cloudsea Dragon
+
+Short description:
+Dive deep into a sea of clouds, leap high, and eat glowing lanterns to keep your dragon's flame alive.
+
+Full description:
+Guide a long-bodied dragon through a sunset sea of clouds with one finger. Hold to dive, let go to leap: the deeper you dive, the higher you fly. Swallow paper lanterns in mid-air to feed your flame, chain them into combos, and watch your dragon grow longer with every bite.
+
+Travel through six areas that each add something new: Sunset Sea, Lantern Bay with its fireworks, Storm Reach and its thunderclouds, Aurora Heights with ribbons of light that carry you forward, Moon Tides with low gravity and giant waves, and Starfall Deep under a rain of meteors.
+
+Spend pearls on upgrades that change how you play: Whisker Magnet, Sky Loop, Star Sense, Silk Glide, Pearl Shield, Dragon Breath and Hungry Tail. Complete more than 20 missions and then endless new ones, catch the rare Golden Koi, pop surprise gift balloons, ride Lantern Rain and join Festival Hour for double pearls. When you are ready, choose Rebirth to start over with Dragon Scales that make you stronger forever and give your dragon a new color.
+
+Plays in English and Arabic.
+
+Genre: Arcade / Casual (one-touch action with upgrades)
+
+Controls:
+- Mobile: hold anywhere to dive, release to leap. While rising, hold to do a Sky Loop (after unlocking it).
+- Keyboard: Space, Down Arrow or S to dive, release to leap. P or Esc to pause, M to mute.
+- Mouse: hold the left button to dive, release to leap.
+
+Keywords: dragon, clouds, lanterns, one touch, one button, arcade, casual, endless flyer, dive and leap, upgrades, missions, rebirth, relaxing, Arabic, sky
+
+=== العربية ===
+العنوان: تنين بحر الغيم
+
+الوصف القصير:
+غُص عميقًا في بحر من الغيوم، واقفز عاليًا، والتهم الفوانيس المضيئة لتُبقي لهب تنينك مشتعلًا.
+
+الوصف الكامل:
+قُد تنينًا طويلًا فوق بحر من الغيوم بإصبع واحد. اضغط باستمرار لتغوص، وارفع إصبعك لتنطلق: كلما غصت أعمق طرت أعلى. التهم الفوانيس الورقية في الهواء لتغذي لهبك، واصنع منها سلاسل متتالية، وشاهد تنينك يطول مع كل لقمة.
+
+سافر عبر ست مناطق، لكل منها شيء جديد: بحر الغروب، وخليج الفوانيس بألعابه النارية، ومدى العاصفة بسحب الرعد، ومرتفعات الشفق بأشرطة الضوء التي تدفعك للأمام، ومدّ القمر بجاذبيته الخفيفة وأمواجه العملاقة، وأعماق النجوم تحت مطر من النيازك.
+
+اصرف اللؤلؤ على تطويرات تغيّر طريقة لعبك: الشوارب الجاذبة، والدوّامة، وحاسة النجوم، وانزلاق الحرير، ودرع اللؤلؤ، ونفَس التنين، والذيل الجائع. أكمل أكثر من ٢٠ مهمة ثم مهام جديدة بلا نهاية، واصطد سمكة الكوي الذهبية النادرة، وافتح بالونات الهدايا المفاجئة، واستمتع بمطر الفوانيس وساعة المهرجان بلؤلؤ مضاعف. وعندما تكون مستعدًا، اختر الانبعاث لتبدأ من جديد بحراشف تنين تقوّيك للأبد وتمنح تنينك لونًا جديدًا.
+
+اللعبة متوفرة بالعربية والإنجليزية.
+
+النوع: أركيد / لعبة خفيفة (أكشن بلمسة واحدة مع تطويرات)
+
+التحكم:
+- الجوال: اضغط باستمرار في أي مكان للغوص، وارفع إصبعك للانطلاق. وأنت صاعد، اضغط لتلف دوّامة في الهواء (بعد فتحها).
+- لوحة المفاتيح: المسافة أو السهم للأسفل أو S للغوص، واتركه للانطلاق. P أو Esc للإيقاف المؤقت، وM لكتم الصوت.
+- الماوس: اضغط الزر الأيسر باستمرار للغوص، واتركه للانطلاق.
+
+الكلمات المفتاحية: تنين، غيوم، فوانيس، لمسة واحدة، زر واحد، أركيد، لعبة خفيفة، طيران لا نهائي، غوص وقفز، تطويرات، مهام، انبعاث، ألعاب عربية، سماء
